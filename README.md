@@ -1,28 +1,3 @@
-
----
-
----
-
-<!--
-**eduardotlc/eduardotlc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-My repositories
-
----
-
-- 📊 I’m currently working on ...
-- 📧 I’m currently learning ...
-- ✏️ I’m looking to collaborate on ...
-- 🐭 I’m looking for help with ...
-- 🔷 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <html>
   <head>
     <!-- PAGE INFO -->
@@ -30,7 +5,6 @@ My repositories
     <meta content="text/html" http-equiv="Content-Type" />
     <link rel="shortcut icon" href="https://img.icons8.com/fluency/50/000000/autograph.png" type="image/x-icon" />
   </head>
-
   <body style="font-family: Helvetica, sans-serif;">
     <!-- CONTAINER -->
     <table style="font-family: Helvetica, sans-serif;" cellpadding="0" cellspacing="0">
@@ -46,7 +20,6 @@ My repositories
               >
             </a>
           </td>
-          <td style="height: 160px; border-left: thin solid #4f6ac3; padding-right: 14px;"></td>
           <td style="font-family: inherit; padding: 0; margin: auto;">
           <table style="font-family: inherit" cellpadding="0" cellspacing="0">
             <tbody>
@@ -119,15 +92,16 @@ My repositories
                 </td>
               </tr>
               <!-- IV. Links -->
+          <td style="font-family: inherit; padding: 0; margin: auto;">
               <tr>
                 <td style="font-family: inherit; padding-top: 4px; padding-left: 0; text-align: left; width: 240px; align: center">
                   <!-- Lattes -->
                   <span>
+                    &emsp;&emsp;&emsp;
                     <a style="text-decoration: none; padding-right: 4px;"
                        href="http://buscatextual.cnpq.br/buscatextual/visualizacv.do"
                        target="_blank"
                     >
-                    &emsp;&emsp;&emsp;
                       <img alt="Lattes"
                            style="width: 18px; height: 18px"
                            src="https://raw.githubusercontent.com/eduardotlc/gmail_signature/e633de430c8eae0a5d1896fde30aa591d5678566/lattesg.svg"
@@ -136,11 +110,11 @@ My repositories
                   </span>
                   <!-- GitHub -->
                   <span>
+                    &nbsp;
                     <a style="text-decoration: none; padding: 0 4px;"
                        href="https://github.com/eduardotlc"
                        target="_blank"
                     >
-                      &nbsp;
                       <img alt="github"
                            style="width: 18px; height: 18px;"
                            src="https://raw.githubusercontent.com/eduardotlc/gmail_signature/e633de430c8eae0a5d1896fde30aa591d5678566/githubg.svg"
@@ -149,24 +123,24 @@ My repositories
                   </span>
                   <!-- Researchgate -->
                   <span>
+                    &nbsp;
                     <a style="text-decoration: none; padding: 0 4px;"
                        href="https://www.researchgate.net/profile/Eduardo-Campos-23"
                        target="_blank"
                     >
-                      &nbsp;
                       <img alt="Researchgate"
                            style="width: 18px; height: 18px;"
                            src="https://raw.githubusercontent.com/eduardotlc/gmail_signature/e633de430c8eae0a5d1896fde30aa591d5678566/researchgateg.svg"
                       >
                     </a>
                   </span>
+                    &nbsp;
                   <!-- Redoxoma -->
                   <span>
                     <a style="text-decoration: none; padding: 0 4px;"
                        href="https://redoxoma.iq.usp.br/"
                        target="_blank"
                     >
-                      &nbsp;
                       <img alt="Redoxoma"
                            style="width: 18px; height: 18px;"
                            src="https://raw.githubusercontent.com/eduardotlc/gmail_signature/e633de430c8eae0a5d1896fde30aa591d5678566/redoxomag2.svg"
@@ -179,11 +153,9 @@ My repositories
           </table>
         </tr>
       </tbody>
-      &emsp;&emsp;
     </table>
   </body>
 </html>
 
-<br>
 
 ---
